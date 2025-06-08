@@ -1,0 +1,14 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.user
+.vscode/
+.vs/
+.DS_Store
